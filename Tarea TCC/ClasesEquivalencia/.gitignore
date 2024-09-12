@@ -1,0 +1,20 @@
+# Ignorar carpetas de compilación de Maven
+/target/
+.mvn/
+.idea/
+.settings/
+
+# Ignorar archivos de configuración de IDEs
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Ignorar archivos de log y compilación
+*.log
+*.class
+
+# Ignorar cualquier otra carpeta de salida
+out/
+bin/
